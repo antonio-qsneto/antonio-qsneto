@@ -3,8 +3,8 @@
 ## About me
  - 🍎 Computer professor
  - 🤖 Enthusiast in data science and artificial intelligence
- - 👽 Aspirant to astronomy and astrophysics 
+ - 👽 Astronomy lover
  - 🖥️ Python, c++, GDL and Javascript
- - 🎸 Blues, jazz e rock n roll
+ - 🎸 Sometimes
 ## 
 

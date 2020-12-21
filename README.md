@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi
 
 ## About me
  - 🍎 Computer professor

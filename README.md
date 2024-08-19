@@ -2,7 +2,9 @@
 
 ## About me
  - 🍎 Computer professor
- - 🖥️ Python, c++, GDL and Javascript
+ - 🖥️ Machine Learning and Deep Learning
+ - Supervised/Unsupervised Learning, Reinforcement Learning
+ - Data Handling and Processing
 
 ## 
 
